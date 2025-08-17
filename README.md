@@ -49,7 +49,7 @@ A full-stack job portal application built with React.js and Node.js that connect
 - **Frontend:**
   - React.js
   - Redux Toolkit
-  - Tailwind CSS
+  - CSS
   - Vite
 
 - **Backend:**
